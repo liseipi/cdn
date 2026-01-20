@@ -96,11 +96,11 @@ http://tv.bfsu.edu.cn/hls/sxrtv.m3u8
 #EXTINF:-1 tvg-name="陕西卫视" tvg-id="陕西卫视" tvg-logo="https://livecdn.zbds.org/logo/陕西卫视.png" group-title="📡卫视频道", 陕西卫视
 http://iptv.huuc.edu.cn/hls/sxhd.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" tvg-id="深圳卫视" tvg-logo="https://livecdn.zbds.org/logo/深圳卫视.png" group-title="📡卫视频道", 深圳卫视
-http://iptv.huuc.edu.cn/hls/szhd.m3u8
+http://222.214.208.34:59901/tsfile/live/0126_1.m3u8
 #EXTINF:-1 tvg-name="四川卫视" tvg-id="四川卫视" tvg-logo="https://livecdn.zbds.org/logo/四川卫视.png" group-title="📡卫视频道", 四川卫视
 http://101.66.198.64:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="天津卫视" tvg-id="天津卫视" tvg-logo="https://livecdn.zbds.org/logo/天津卫视.png" group-title="📡卫视频道", 天津卫视
-http://iptv.huuc.edu.cn/hls/tjhd.m3u8
+http://111.221.137.234:44330/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="西藏卫视" tvg-id="西藏卫视" tvg-logo="https://livecdn.zbds.org/logo/西藏卫视.png" group-title="📡卫视频道", 西藏卫视
 http://tv.bfsu.edu.cn/hls/xztv.m3u8
 #EXTINF:-1 tvg-name="新疆卫视" tvg-id="新疆卫视" tvg-logo="https://livecdn.zbds.org/logo/新疆卫视.png" group-title="📡卫视频道", 新疆卫视
@@ -119,10 +119,14 @@ http://101.66.198.64:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
 https://liveout.xntv.tv/a65jur/96iln2.m3u8
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-id="内蒙古卫视" tvg-logo="https://livecdn.zbds.org/logo/内蒙古卫视.png" group-title="📡卫视频道", 内蒙古卫视
 http://tv.bfsu.edu.cn/hls/nmtv.m3u8
-#EXTINF:-1 tvg-name="山东教育" tvg-id="山东教育" tvg-logo="https://livecdn.zbds.org/logo/山东教育.png" group-title="📡卫视频道", 山东教育
-https://tv.bfsu.edu.cn/hls/sdetv.m3u8
+#EXTINF:-1 tvg-name="厦门卫视" tvg-id="厦门卫视" tvg-logo="https://tb.zbds.top/logo/厦门卫视.png" group-title="📡卫视频道", 厦门卫视
+http://183.11.239.36:808/hls/17/index.m3u8
+#EXTINF:-1 tvg-name="新疆卫视" tvg-id="新疆卫视" tvg-logo="https://tb.zbds.top/logo/新疆卫视.png" group-title="📡卫视频道", 新疆卫视
+http://222.169.85.8:9901/tsfile/live/0110_1.m3u8
 #EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.cn/tv/黑莓动画.png" group-title="🪁动画频道",黑莓动画
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
+#EXTINF:-1 tvg-name="内蒙古少儿" tvg-id="内蒙古少儿" tvg-logo="https://tb.zbds.top/logo/内蒙古少儿.png" group-title="🪁动画频道", 内蒙古少儿
+http://play1-qk.nmtv.cn/live/1686560464515368.m3u8
 #EXTINF:-1 tvg-name="香港卫视中文台" tvg-id="香港卫视中文台" tvg-logo="https://livecdn.zbds.org/logo/香港卫视.png" group-title="🌊港·澳·台", 香港卫视中文台
 http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-name="星空卫视" tvg-id="星空卫视" tvg-logo="https://livecdn.zbds.org/logo/星空卫视.png" group-title="🌊港·澳·台", 星空卫视
